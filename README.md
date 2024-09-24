@@ -1,3 +1,5 @@
+![Login page (1)](https://github.com/user-attachments/assets/b4e94d69-4aa2-4421-8b0f-d7f22df041f5)
+![sign up page](https://github.com/user-attachments/assets/5ff6f5d7-fd45-41f0-a2ec-44b25ac4876e)
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
