@@ -1,4 +1,4 @@
-![Login page (1)](https://github.com/user-attachments/assets/b4e94d69-4aa2-4421-8b0f-d7f22df041f5)
+![Login page (6)](https://github.com/user-attachments/assets/a61fa643-8a5a-4ade-8b8b-cdb56629cd5a)
 ![sign up page](https://github.com/user-attachments/assets/5ff6f5d7-fd45-41f0-a2ec-44b25ac4876e)
 # Welcome to your Expo app 👋
 
